@@ -1,0 +1,40 @@
+body{
+    background-color: #f5abc9;
+    margin-left: 20%;
+}
+
+img{
+    margin-top: 13%;
+    max-height: 300px;
+    border-radius: 10px;
+
+}
+
+
+.container {
+    display: inline-block;
+    height: 400px;
+    background-color: antiquewhite;
+    padding: 0px 0px 20px 15px;
+    border-radius: 10px;
+    margin-top: -20px;
+}
+
+p{
+    max-width: 500px;
+}
+
+button{
+    padding: 10px 80px 10px 80px;
+    border-radius: 6px;
+    border: transparent;
+    margin-left: -15px;
+}
+
+button:checked{
+    background-color: #f5abc9;
+}
+
+button:hover{
+    background-color: #ff0066;
+}

@@ -1,0 +1,56 @@
+body{
+    background-image: linear-gradient(to left top,rgb(255, 255, 0), rgba(125, 211, 233, 0.822),rgb(255, 255, 0));
+    min-height: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: grid;
+    font-family: 'Courier New', Courier, monospace;
+    justify-items: center;
+    color: darkcyan;
+}
+
+
+.container {
+    box-shadow: 1px 1px 3px 1px black ;
+    padding: 20px 20px ;
+    border-radius: 10px;
+    width: 500px;
+    margin-top: 15%;
+    height: 230px;
+    background-color: rgb(255, 255, 255, 0.5);
+}
+
+
+
+h3{
+    display: inline;
+}
+
+input {
+    width: 60%;
+    height: 38px;    
+    border-radius: 8px;
+    border: none;
+    box-shadow: 1px 1px 2px 1px gray inset;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    background-color: transparent;
+    color: darkcyan;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+:placeholder-shown{
+    font-size: 20px;
+    margin-left: 10px;
+    padding-left: 15px;
+    color: darkcyan;
+}
+
+
+
+p {
+    color: red;
+    padding-bottom:20px;
+}

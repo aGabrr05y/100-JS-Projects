@@ -1,0 +1,47 @@
+body {
+    display: grid;
+    place-items: center;
+    margin-top: 15%;
+    font-family: "Roboto", sans-serif
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 68px;
+}
+
+button{
+    margin: 10px;
+    margin-left: 18px;
+}
+
+.btn-S {
+    background-color: #27ae60;
+    font-size: 25px;
+    padding: 6px 20px 6px 20px;
+    border-radius: 8px;
+    border: transparent;
+    color: aliceblue;
+}
+
+.btn-St {
+    background-color: #c0392b;
+    font-size: 25px;
+    padding: 6px 20px 6px 20px;
+    border-radius: 8px;
+    border: transparent;
+    color: aliceblue;
+}
+
+.btn-R {
+    background-color:gray;
+    font-size: 25px;
+    padding: 6px 20px 6px 20px;
+    border-radius: 8px;
+    border: transparent;
+    color: aliceblue;
+}

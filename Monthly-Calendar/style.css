@@ -1,0 +1,40 @@
+body{
+    display: grid;
+    place-items: center;
+    background-color: rgb(218, 154, 148);
+    margin-top: 12%;
+    font-family: sans-serif;
+}
+
+.container {
+    text-align: center;
+    background-color:lightseagreen;
+    padding: 20px 0px 0px 0px;
+    border-radius: 10px;
+    color: white;
+
+}
+
+.container2 {
+    background-color: black;
+    width: 420px;
+    height: 320px;
+    border-radius: 0px 0px 10px 10px;
+    color: white;
+}
+
+th, td {
+    width: 12.28%; /* Para que las celdas sean iguales y ocupen el 100% del ancho de la tabla */
+    height: 10.20%;
+    padding: 10px; /* Espaciado dentro de las celdas */
+    text-align: center; /* Centrado horizontal */
+    vertical-align: middle; /* Centrado vertical */
+}
+
+tbody td:hover{
+    border: 1px solid rgba(255, 255, 255, 0.836);
+}
+
+.today {
+    background-color: lightseagreen;
+}

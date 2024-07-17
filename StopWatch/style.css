@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 14%;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    background-color: rgb(241, 241, 241);
+}
+
+
+.timer{
+    color: #f92672;
+    padding: 5px 10px 5px 10px;
+    font-size: 120px;
+    text-shadow: 2px 2px #f8a5c2;
+    margin-bottom: 70px;
+}
+
+button{
+    background-color: #f92672;
+    border: transparent;
+    padding: 25px 70px 25px 70px;
+    font-size: 30px;
+    border-radius: 30px;
+    color: white;
+    box-shadow: 1px 1px 3px 1px black;
+    margin-left: 30px;
+}

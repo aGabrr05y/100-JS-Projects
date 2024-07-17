@@ -1,0 +1,49 @@
+
+h1 {
+    font-size: 55px;
+}
+
+.dice {
+    margin-top: -40px;
+    font-size: 130px;
+}
+
+.container {
+
+    display: grid;
+    justify-items: center;
+    margin-top: 10%;
+}
+
+button {
+    font-size: 30px;
+    background-color: rgb(3, 156, 16);
+    border: transparent;
+    padding: 15px 25px ;
+    border-radius: 88px;
+    color: white;
+    box-shadow: 1px 1px 6px 1px black;
+}
+
+
+ul {
+    list-style-type: none; /* Quita los puntos de la lista */
+}
+
+li {    
+    display: flex;
+    align-items: center;
+    padding-top:-40px ;
+    background-color: rgb(238, 238, 237);
+    width: 400px;
+    padding: 8px 8px;
+    border-radius: 16px;
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+li span {
+    font-size: 3rem;
+    align-items: center;
+    padding-left: 250px;
+}

@@ -1,0 +1,28 @@
+.datee {
+    margin-top: 15%;
+    box-shadow: 3px 1px 3px 1px ;
+    width: 500px;
+    display: grid;
+    place-items: center;
+    border-radius: 8px;
+    margin-left: 37%;
+}
+
+.inputdate {
+    width: 250px;
+    padding: 5px ;
+}
+
+.text {
+    margin-top: -5px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    margin-top: 15px;
+    background-color: rgb(0, 110, 255);
+    border: transparent;
+    padding: 13px 20px ;
+    border-radius: 8px;
+    color: aliceblue;
+}
