@@ -10,6 +10,5 @@ document.addEventListener('DOMContentLoaded', function() {
         } else {
             video.pause();
             buttom.textContent = '▶️';
-        }
-
-})})
+        }})
+})
