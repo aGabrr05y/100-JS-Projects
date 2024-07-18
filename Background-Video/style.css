@@ -51,6 +51,5 @@ button {
     color: white; /* Asegura que el botón sea visible sobre el video */
     cursor: pointer;
     margin-top: 20px; /* Añade un margen superior para separar el botón del h1 */
-    color: red;
-    
+
 }
